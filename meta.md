@@ -1,2 +1,2 @@
 - [X] Adicionando Fonte Externa
-- [ ] Vinculando o componente Text com o Figma
+- [X] Vinculando o componente Text com o Figma
