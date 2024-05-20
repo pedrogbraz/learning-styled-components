@@ -1,7 +1,2 @@
-- [X] Estilos globais do nosso projeto
-- [X] Revisando componentes
-  - Box
-  - Text
-  - BaseComponent
-  - StyleSheet
-- [X] O footer esquecido
+- [X] Adicionando Fonte Externa
+- [ ] Vinculando o componente Text com o Figma
