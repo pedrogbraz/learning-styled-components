@@ -1,0 +1,4 @@
+- [X] Ajustar imports
+- [ ] Adicionar Styled Components
+- [ ] Adicionar suporte para trabalharmos com breakpoints
+- [ ] Separar o StyleSheet
