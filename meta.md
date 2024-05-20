@@ -4,4 +4,4 @@
   - Text
   - BaseComponent
   - StyleSheet
-- [ ] O footer esquecido
+- [X] O footer esquecido
