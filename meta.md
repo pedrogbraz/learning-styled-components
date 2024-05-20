@@ -1,0 +1,7 @@
+- [X] Estilos globais do nosso projeto
+- [X] Revisando componentes
+  - Box
+  - Text
+  - BaseComponent
+  - StyleSheet
+- [ ] O footer esquecido

@@ -1,11 +1,10 @@
 import Text from "@src/components/Text/Text";
 import Box from "@src/components/Box/Box";
-import Theme from "@src/theme/theme";
 
-export default function Menu() {
+export default function Footer() {
   return (
-    <Box >
-      <Text>Menu</Text>
+    <Box>
+      <Text>Footer</Text>
     </Box>
-  )
+  );
 }

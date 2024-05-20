@@ -1,7 +1,7 @@
 import React from "react";
 
-import Box from "@src/components/Box/box";
-import Text from "@src/components/Text/text";
+import Box from "@src/components/Box/Box";
+import Text from "@src/components/Text/Text";
 
 interface FeedProps {
   children: React.ReactNode

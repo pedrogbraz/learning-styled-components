@@ -3,7 +3,7 @@ import { BaseComponent } from "@src/theme/baseComponent";
 import React from "react";
 
 interface BoxProps {
-  tag?: any,
+  tag?: 'main' | 'div' | 'article' | 'section' | 'ul' | string,
   children?: React.ReactNode,
   stylesheet?: StyleSheet,
 }

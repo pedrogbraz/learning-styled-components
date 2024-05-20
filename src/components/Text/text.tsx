@@ -1,5 +1,5 @@
 import React from "react";
-import Box from "../Box/box";
+import Box from "../Box/Box";
 import Theme from "@src/theme/theme";
 
 interface TextProps {
